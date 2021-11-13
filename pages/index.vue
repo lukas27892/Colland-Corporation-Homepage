@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxtjs
+        Colland Corporation
       </h1>
       <h2 class="subtitle">
-        My astonishing Nuxt.js project
+        Welcome to the Colland Corporation website!
       </h2>
       <div class="links">
         <a
@@ -14,14 +14,14 @@
           target="_blank"
           class="button--green"
         >
-          Documentation
+          Get Started →
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
-          class="button--grey"
+          class="button--blue"
         >
-          GitHub
+          Games
         </a>
       </div>
     </div>
